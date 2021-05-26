@@ -1,0 +1,14 @@
+	1 - Player
+		1.1 - Importando a sprite do player - FEITO
+		1.2 - Criando o objeto player  e dando a sprite para ele - FEITO
+		
+	2 - Ajustando as dimenções da room e ajustando a view e viewport da room
+		2.1 - Criando a viewport e a camera para o jogo - FEITO
+		2.2 - Ajustando as proporções para o view ser grande e a viewport menor - FEITO
+	3 - atirando
+		3.1 - Importando as sprites do tiro do player - FEITO
+		3.2 - Criando o objeto de tiro do player - FEITO
+		3.3 - Fazendo o tiro ir para cima - FEITO
+		3.4 - Fazendo o jogador atirar ao apertar o espaço - FEITO
+		3.5 - Fazendo o tiro ter um efeito legal
+			3.5.1 - Fazendo ele nascer grande e depois de um tempo ele ficar pequeno
