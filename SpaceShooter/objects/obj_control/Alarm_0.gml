@@ -16,10 +16,11 @@ if not (instance_exists(obj_inimigo)) then
 	else 
 	{	
 		if  (criar_boss) then		
-		{
+		{	
 			
 			layer_sequence_create("Boss_Entrada", 928, 608, sq_boss_entrando);
 			criar_boss = false;
+			audio_stop_all();
 			
 		}
 		

@@ -19,6 +19,8 @@ atirando = function() {
 	if ( y > 0 ) then
 	{
 		instance_create_layer(x - 3, y + sprite_height / 3 , "tiro", obj_tiro_inimigo01);
+		audio_play_sound(sfx_laser2, 2, false);
+		
 	}
 }
 

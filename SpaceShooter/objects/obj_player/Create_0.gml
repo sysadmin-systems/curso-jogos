@@ -33,9 +33,11 @@ atirando = function() {
 		{	
 			tiro2_level2();
 			tiro2_level4();
-		}			
+		}		
+		audio_play_sound(sfx_laser1, 2, false);
 		
 	}	
+	
 
 }
 

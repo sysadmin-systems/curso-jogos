@@ -5,6 +5,7 @@ randomize();
 
 alarm[0] = room_speed;
 
+audio_play_sound(snd_darkling, 1,0);
 
 pontos = 0;
 level = 9;

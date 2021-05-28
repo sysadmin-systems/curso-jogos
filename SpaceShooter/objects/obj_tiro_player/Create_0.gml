@@ -7,3 +7,4 @@ image_yscale = 1.5;
 brilho = spr_brilho_tiro;
 
 //alarm[0] = 4;
+

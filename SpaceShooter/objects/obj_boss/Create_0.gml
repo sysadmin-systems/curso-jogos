@@ -21,6 +21,7 @@ criar_minions = true;
 
 tiro_2 = function(){
 	instance_create_layer(x, y + 90, "Tiro", obj_tiro_inimigo02);		
+	audio_play_sound(sfx_laser,1,0);
 }
 
 
